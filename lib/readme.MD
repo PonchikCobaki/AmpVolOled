@@ -1,2 +1,2 @@
-Установить ядро:
+РЎРєР°С‡Р°С‚СЊ СЏРґСЂРѕ:
 https://github.com/AlexGyver/GyverLibs
